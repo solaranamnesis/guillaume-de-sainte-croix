@@ -4,7 +4,7 @@ Public Domain Works of Guillaume-Emmanuel-Joseph de Guilhem de Clermont-Lodève 
 
 ## Mémoires pour servir a l'Histoire de la Religion Secrete des Anciens Peuples.
 
-French - Plain Text  
+[French - Plain Text](memoires-servir-histoire-religion-secrete-anciens-peuples/full-text-french.md)  
 French - PDF | Biolinum | Atkinson | Cursive | Auriocus | Kerkis | Artemisia  
 English - Plain Text  
 English - PDF  
